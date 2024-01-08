@@ -1,0 +1,3 @@
+nim : 22040126
+nama : Muhamad Suharto
+kelas : 3B
